@@ -14,6 +14,13 @@ an issue [here](https://github.com/myyoda/myyoda/issues) you file.
 
 [Original poster you see](https://github.com/myyoda/poster/blob/master/ohbm2018.pdf).
 
+#### More you learn
+
+- YODA's STAMPED paper (WiP): https://myyoda.github.io/principles-paper/ (https://github.com/myyoda/principles-paper)
+- YODA's STAMPED and FAIR Examples: https://myyoda.github.io/principles-examples (https://github.com/myyoda/principles-examples) 
+- [DataLad Handbook: YODA](http://handbook.datalad.org/en/latest/search.html?q=YODA)
+- [ReproNim/containers: a typical workflow](https://github.com/ReproNim/containers/#a-typical-workflow)
+
 
 #### Ready are you?
 
@@ -36,11 +43,6 @@ provenance record.  When properly organized, all needed sub-modules
 sub-paths of any given module.
 
 </details>
-
-#### More you learn
-
-- [DataLad Handbook: YODA](http://handbook.datalad.org/en/latest/search.html?q=YODA)
-- [ReproNim/containers: a typical workflow](https://github.com/ReproNim/containers/#a-typical-workflow)
 
 [git-annex]: http://git-annex.branchable.com
 [DataLad]: http://datalad.org
