@@ -16,8 +16,8 @@ an issue [here](https://github.com/myyoda/myyoda/issues) you file.
 
 #### More you learn
 
-- YODA's STAMPED paper (WiP): https://myyoda.github.io/principles-paper/ (https://github.com/myyoda/principles-paper)
-- YODA's STAMPED and FAIR Examples: https://myyoda.github.io/principles-examples (https://github.com/myyoda/principles-examples) 
+- [YODA's STAMPED paper (WiP)](https://myyoda.github.io/principles-paper/) (https://github.com/myyoda/principles-paper)
+- [YODA's STAMPED and FAIR Examples](https://myyoda.github.io/principles-examples) (https://github.com/myyoda/principles-examples) 
 - [DataLad Handbook: YODA](http://handbook.datalad.org/en/latest/search.html?q=YODA)
 - [ReproNim/containers: a typical workflow](https://github.com/ReproNim/containers/#a-typical-workflow)
 
