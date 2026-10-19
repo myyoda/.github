@@ -1,5 +1,7 @@
 ### Hi there, I'm YODA Principles 👋
 
+**⚠ This project generalized now into [STAMPED Principles](https://github.com/stamped-principles/) ⚠**.
+
 Teach you to harness the power of the (technology) Force I do.
 
 The slides of [distribis 2025 talk "Pragmatic YODA"](https://datasets.datalad.org/centerforopenneuroscience/talks/2025-distribits-YODA.html#/) flip through you want!
